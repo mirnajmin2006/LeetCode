@@ -7,8 +7,17 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCode/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCode/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
