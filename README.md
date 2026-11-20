@@ -11,6 +11,7 @@ Leet Code Problem Set
 | [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
+| [1572-matrix-diagonal-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +73,8 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
