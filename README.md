@@ -26,6 +26,7 @@ Leet Code Problem Set
 | [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
+| [0876-middle-of-the-linked-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -82,4 +83,8 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
