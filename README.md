@@ -9,6 +9,7 @@ Leet Code Problem Set
 | [0001-two-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mirnajmin2006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCode/tree/master/0016-3sum-closest) |
+| [0035-search-insert-position](https://github.com/mirnajmin2006/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mirnajmin2006/LeetCode/tree/master/0217-contains-duplicate) |
@@ -40,6 +41,7 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mirnajmin2006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/mirnajmin2006/LeetCode/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
