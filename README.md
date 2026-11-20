@@ -63,6 +63,7 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/mirnajmin2006/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -88,4 +89,12 @@ Leet Code Problem Set
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mirnajmin2006/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mirnajmin2006/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
