@@ -9,6 +9,7 @@ Leet Code Problem Set
 | [0001-two-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mirnajmin2006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,10 +18,12 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -33,4 +36,12 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mirnajmin2006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
