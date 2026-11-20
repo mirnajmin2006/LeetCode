@@ -32,6 +32,7 @@ Leet Code Problem Set
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mirnajmin2006/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0143-reorder-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -72,6 +73,7 @@ Leet Code Problem Set
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/mirnajmin2006/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mirnajmin2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/mirnajmin2006/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mirnajmin2006/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -104,6 +106,7 @@ Leet Code Problem Set
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/mirnajmin2006/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mirnajmin2006/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0143-reorder-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -127,4 +130,5 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/mirnajmin2006/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
