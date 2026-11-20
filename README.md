@@ -7,6 +7,7 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mirnajmin2006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCode/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
@@ -24,4 +25,12 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/mirnajmin2006/LeetCode/tree/master/0065-valid-number) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mirnajmin2006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mirnajmin2006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
