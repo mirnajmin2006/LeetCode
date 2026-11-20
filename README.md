@@ -12,6 +12,7 @@ Leet Code Problem Set
 | [0035-search-insert-position](https://github.com/mirnajmin2006/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/mirnajmin2006/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mirnajmin2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/mirnajmin2006/LeetCode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/mirnajmin2006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -65,10 +66,12 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/mirnajmin2006/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/mirnajmin2006/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mirnajmin2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/mirnajmin2006/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mirnajmin2006/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -77,6 +80,7 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/mirnajmin2006/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,6 +97,7 @@ Leet Code Problem Set
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/mirnajmin2006/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1572-matrix-diagonal-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Linked List
 |  |
