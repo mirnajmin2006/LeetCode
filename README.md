@@ -29,6 +29,7 @@ Leet Code Problem Set
 | [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mirnajmin2006/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -94,6 +95,7 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/mirnajmin2006/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mirnajmin2006/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
