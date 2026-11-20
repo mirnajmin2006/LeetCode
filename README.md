@@ -38,6 +38,7 @@ Leet Code Problem Set
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mirnajmin2006/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/mirnajmin2006/LeetCode/tree/master/0065-valid-number) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mirnajmin2006/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Leet Code Problem Set
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/mirnajmin2006/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mirnajmin2006/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
