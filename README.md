@@ -13,6 +13,7 @@ Leet Code Problem Set
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mirnajmin2006/LeetCode/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/mirnajmin2006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1572-matrix-diagonal-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mirnajmin2006/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
@@ -21,6 +22,7 @@ Leet Code Problem Set
 | [0001-two-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mirnajmin2006/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/mirnajmin2006/LeetCode/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/mirnajmin2006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,4 +108,8 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mirnajmin2006/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mirnajmin2006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
