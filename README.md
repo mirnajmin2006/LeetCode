@@ -15,6 +15,7 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mirnajmin2006/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Leet Code Problem Set
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mirnajmin2006/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/mirnajmin2006/LeetCode/tree/master/0065-valid-number) |
 ## Binary Search
 |  |
@@ -58,4 +60,8 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mirnajmin2006/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
