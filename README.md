@@ -93,6 +93,7 @@ Leet Code Problem Set
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/mirnajmin2006/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -112,4 +113,8 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mirnajmin2006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/mirnajmin2006/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
