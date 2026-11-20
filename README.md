@@ -11,12 +11,14 @@ Leet Code Problem Set
 | [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/mirnajmin2006/LeetCode/tree/master/0217-contains-duplicate) |
 | [1572-matrix-diagonal-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mirnajmin2006/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/mirnajmin2006/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +30,7 @@ Leet Code Problem Set
 | ------- |
 | [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/mirnajmin2006/LeetCode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
