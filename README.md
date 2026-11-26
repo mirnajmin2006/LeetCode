@@ -50,6 +50,7 @@ Leet Code Problem Set
 | [0003-longest-substring-without-repeating-characters](https://github.com/mirnajmin2006/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/mirnajmin2006/LeetCode/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/mirnajmin2006/LeetCode/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/mirnajmin2006/LeetCode/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mirnajmin2006/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
@@ -98,6 +99,7 @@ Leet Code Problem Set
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mirnajmin2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/mirnajmin2006/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/mirnajmin2006/LeetCode/tree/master/0412-fizz-buzz) |
 | [1486-xor-operation-in-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -132,6 +134,7 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mirnajmin2006/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/mirnajmin2006/LeetCode/tree/master/0412-fizz-buzz) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mirnajmin2006/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
