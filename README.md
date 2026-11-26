@@ -18,6 +18,7 @@ Leet Code Problem Set
 | [0150-evaluate-reverse-polish-notation](https://github.com/mirnajmin2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/mirnajmin2006/LeetCode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/mirnajmin2006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0912-sort-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/0912-sort-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mirnajmin2006/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
@@ -44,6 +45,7 @@ Leet Code Problem Set
 | [0016-3sum-closest](https://github.com/mirnajmin2006/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mirnajmin2006/LeetCode/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -61,6 +63,7 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mirnajmin2006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -148,6 +151,7 @@ Leet Code Problem Set
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/0912-sort-an-array) |
 | [2349-design-a-number-container-system](https://github.com/mirnajmin2006/LeetCode/tree/master/2349-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -157,4 +161,20 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mirnajmin2006/LeetCode/tree/master/0258-add-digits) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
