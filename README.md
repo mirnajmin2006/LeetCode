@@ -26,6 +26,7 @@ Leet Code Problem Set
 | [0003-longest-substring-without-repeating-characters](https://github.com/mirnajmin2006/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/mirnajmin2006/LeetCode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/mirnajmin2006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2349-design-a-number-container-system](https://github.com/mirnajmin2006/LeetCode/tree/master/2349-design-a-number-container-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mirnajmin2006/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [2349-design-a-number-container-system](https://github.com/mirnajmin2006/LeetCode/tree/master/2349-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
@@ -135,4 +137,12 @@ Leet Code Problem Set
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/mirnajmin2006/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0143-reorder-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/mirnajmin2006/LeetCode/tree/master/2349-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/mirnajmin2006/LeetCode/tree/master/2349-design-a-number-container-system) |
 <!---LeetCode Topics End-->
