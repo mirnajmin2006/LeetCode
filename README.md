@@ -97,6 +97,7 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mirnajmin2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/mirnajmin2006/LeetCode/tree/master/0258-add-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -130,6 +131,7 @@ Leet Code Problem Set
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mirnajmin2006/LeetCode/tree/master/0258-add-digits) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mirnajmin2006/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
@@ -148,4 +150,8 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [2349-design-a-number-container-system](https://github.com/mirnajmin2006/LeetCode/tree/master/2349-design-a-number-container-system) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mirnajmin2006/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
