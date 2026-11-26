@@ -104,6 +104,7 @@ Leet Code Problem Set
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mirnajmin2006/LeetCode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mirnajmin2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/mirnajmin2006/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mirnajmin2006/LeetCode/tree/master/0412-fizz-buzz) |
