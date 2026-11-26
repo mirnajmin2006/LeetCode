@@ -13,6 +13,7 @@ Leet Code Problem Set
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/mirnajmin2006/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mirnajmin2006/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mirnajmin2006/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mirnajmin2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/mirnajmin2006/LeetCode/tree/master/0217-contains-duplicate) |
@@ -72,6 +73,7 @@ Leet Code Problem Set
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/mirnajmin2006/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mirnajmin2006/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
