@@ -127,11 +127,13 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mirnajmin2006/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/mirnajmin2006/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [2349-design-a-number-container-system](https://github.com/mirnajmin2006/LeetCode/tree/master/2349-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mirnajmin2006/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/mirnajmin2006/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mirnajmin2006/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
@@ -177,4 +179,8 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/0912-sort-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/mirnajmin2006/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
