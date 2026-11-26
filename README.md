@@ -130,6 +130,7 @@ Leet Code Problem Set
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mirnajmin2006/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/mirnajmin2006/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/mirnajmin2006/LeetCode/tree/master/1603-design-parking-system) |
 | [2349-design-a-number-container-system](https://github.com/mirnajmin2006/LeetCode/tree/master/2349-design-a-number-container-system) |
 ## Queue
 |  |
@@ -142,6 +143,7 @@ Leet Code Problem Set
 | ------- |
 | [0258-add-digits](https://github.com/mirnajmin2006/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mirnajmin2006/LeetCode/tree/master/0412-fizz-buzz) |
+| [1603-design-parking-system](https://github.com/mirnajmin2006/LeetCode/tree/master/1603-design-parking-system) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mirnajmin2006/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
@@ -181,6 +183,7 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/0912-sort-an-array) |
+| [1603-design-parking-system](https://github.com/mirnajmin2006/LeetCode/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
