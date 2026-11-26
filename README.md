@@ -32,6 +32,7 @@ Leet Code Problem Set
 | [0042-trapping-rain-water](https://github.com/mirnajmin2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mirnajmin2006/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mirnajmin2006/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/mirnajmin2006/LeetCode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mirnajmin2006/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -45,6 +46,7 @@ Leet Code Problem Set
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mirnajmin2006/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/mirnajmin2006/LeetCode/tree/master/0065-valid-number) |
+| [0125-valid-palindrome](https://github.com/mirnajmin2006/LeetCode/tree/master/0125-valid-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mirnajmin2006/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
