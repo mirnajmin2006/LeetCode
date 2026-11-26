@@ -103,11 +103,13 @@ Leet Code Problem Set
 | [0150-evaluate-reverse-polish-notation](https://github.com/mirnajmin2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/mirnajmin2006/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mirnajmin2006/LeetCode/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mirnajmin2006/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mirnajmin2006/LeetCode/tree/master/0136-single-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mirnajmin2006/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
