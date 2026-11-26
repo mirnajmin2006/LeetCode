@@ -20,6 +20,7 @@ Leet Code Problem Set
 | [0560-subarray-sum-equals-k](https://github.com/mirnajmin2006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/mirnajmin2006/LeetCode/tree/master/0912-sort-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/mirnajmin2006/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1656-design-an-ordered-stream](https://github.com/mirnajmin2006/LeetCode/tree/master/1656-design-an-ordered-stream) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mirnajmin2006/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ Leet Code Problem Set
 | [0003-longest-substring-without-repeating-characters](https://github.com/mirnajmin2006/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/mirnajmin2006/LeetCode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/mirnajmin2006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1656-design-an-ordered-stream](https://github.com/mirnajmin2006/LeetCode/tree/master/1656-design-an-ordered-stream) |
 | [2349-design-a-number-container-system](https://github.com/mirnajmin2006/LeetCode/tree/master/2349-design-a-number-container-system) |
 ## Two Pointers
 |  |
@@ -131,6 +133,7 @@ Leet Code Problem Set
 | [0232-implement-queue-using-stacks](https://github.com/mirnajmin2006/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/mirnajmin2006/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/mirnajmin2006/LeetCode/tree/master/1603-design-parking-system) |
+| [1656-design-an-ordered-stream](https://github.com/mirnajmin2006/LeetCode/tree/master/1656-design-an-ordered-stream) |
 | [2349-design-a-number-container-system](https://github.com/mirnajmin2006/LeetCode/tree/master/2349-design-a-number-container-system) |
 ## Queue
 |  |
@@ -188,4 +191,5 @@ Leet Code Problem Set
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/mirnajmin2006/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1656-design-an-ordered-stream](https://github.com/mirnajmin2006/LeetCode/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
